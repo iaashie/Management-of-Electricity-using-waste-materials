@@ -39,10 +39,6 @@ This project generates electrical energy from waste materials through thermal co
 - A heating sensor triggers the output to power an LED bulb.
 - Pollution is controlled using a carbon filter system.
 
-## Block Diagram
-
-*Add image under `images/` and link here*
-
 ## Methodology
 
 1. Build mechanical & electrical structures.
