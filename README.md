@@ -2,6 +2,14 @@
 
 A low-cost, portable system that generates electricity from waste materials like plastic, rubber, and garbage using a heating panel and pollution control filter. Built as a sustainable energy alternative for rural and emergency use cases.
 
+This innovative project demonstrates how everyday waste can be transformed into a valuable energy source. When waste is burned, the heat produced is captured by a custom-designed heating panel, which converts it into electrical energy using the photovoltaic effect. This electricity is then stored in a rechargeable battery and used to power small electrical devices like LED bulbs, providing a practical and eco-friendly solution for off-grid locations.
+
+To address environmental concerns, the system includes a pollution control filter that reduces harmful carbon emissions. The collected carbon can also be reused in other industrial or agricultural applications, promoting a circular waste-to-energy process.
+
+Designed with simplicity and affordability in mind, the system uses commonly available components such as a heating panel, sensors, capacitors, a DC motor, and a 4.5V battery. Its compact build makes it easy to deploy in remote areas, households, or even for disaster relief situations where electricity is critical but unavailable.
+
+With potential for future scaling, this project offers a foundation for sustainable development by combining energy innovation with effective waste management.
+
 ## Introduction
 
 This project generates electrical energy from waste materials through thermal conversion using a heating panel. The generated energy is stored in a battery and used to power an LED bulb, demonstrating its utility.
